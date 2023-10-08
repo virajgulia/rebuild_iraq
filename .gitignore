@@ -1,0 +1,10 @@
+node_modules/
+out/
+react-portfolio/
+password-strength-react-demo/
+.next
+.DS_Store
+public/uploads/file/*
+!public/uploads/file/.gitkeep 
+public/uploads/image/*
+!public/uploads/image/.gitkeep 
